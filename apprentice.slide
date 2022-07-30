@@ -1,0 +1,100 @@
+Go introduction for apprentices
+10-12 August 2022
+
+Laurent Brülhart
+Carli Beeli
+laurent.bruelhart@bit.admin.ch
+carli.beeli@bit.admin.ch
+
+* Go introduction
+Test *bold* 1
+Test *bold*text*multiple*words* 1
+Test _italic_ 1
+Test _italic_text_multiple_words_ 1
+Test `back-tick` 1
+
+.image image/swiss.png 100 _
+
+* Why Go ?
+Test slide 1
+.background image/go.png
+
+* Resources
+Test slide 1
+.play code/hello.go
+
+* Installation
+Test slide 1
+.code code/hello.go /START/,/END/ HL12
+
+* IDE
+Test slide 1
+
+- VSCode
+- Goland / IntelliJ
+- Sublime Text
+- Vim
+- NeoVim
+
+* Hello World
+Test slide 1
+
+** Subsection
+
+Gopher is diving the subsection.
+
+*** Sub-subsection
+
+Another Gopher is diving more into the sub-subsection!
+
+
+* Tooling
+Test slide 1
+
+.link https://gohugo.io Project Hugo
+
+* Web Server
+Test slide 1
+: don't forget to mention rune
+
+* Built-in types and structs
+Test slide 1
+
+* Collections
+Test slide 1
+
+* Sort
+Test slide 1
+
+* Date, Time and Duration
+Test slide 1
+
+* Concurrency and parallelism
+Test slide 1
+
+* Channels
+Test slide 1
+
+* Package
+Test slide 1
+
+* Functions
+Test slide 1
+
+* Documentation
+Test slide 1
+
+* Testing
+Test slide 1
+
+* Pointers
+Test slide 1
+
+* OOP
+Test slide 1
+
+* Embed a SQLite database
+Test slide 1
+
+* CLI
+Test slide 1
